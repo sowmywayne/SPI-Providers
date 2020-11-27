@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "name": "BSLN",
+      "lowest_price": "Post 1",
+      "rating": "",
+      "max_speed": "",
+      "description": "",
+      "contact_no": "",
+      "email": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "name": "Airtel",
+      "lowest_price": "Post 1",
+      "rating": "",
+      "max_speed": "",
+      "description": "",
+      "contact_no": "",
+      "email": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "name": "Hathway",
+      "lowest_price": "Post 1",
+      "rating": "",
+      "max_speed": "",
+      "description": "",
+      "contact_no": "",
+      "email": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "name": "Reliance DSL",
+      "lowest_price": "Post 1",
+      "rating": "",
+      "max_speed": "",
+      "description": "",
+      "contact_no": "",
+      "email": "",
+      "image": "",
+      "url": ""
+    }
+
+  ]
+}
